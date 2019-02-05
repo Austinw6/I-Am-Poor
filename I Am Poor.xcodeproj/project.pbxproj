@@ -12,6 +12,8 @@
 		8453CF59220A24F10008E8A3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8453CF57220A24F10008E8A3 /* Main.storyboard */; };
 		8453CF5B220A24F30008E8A3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8453CF5A220A24F30008E8A3 /* Assets.xcassets */; };
 		8453CF5E220A24F30008E8A3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8453CF5C220A24F30008E8A3 /* LaunchScreen.storyboard */; };
+		8453CF67220A275A0008E8A3 /* Empty-Wallet.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8453CF66220A275A0008E8A3 /* Empty-Wallet.jpg */; };
+		8453CF69220A2C6E0008E8A3 /* Readme.md in Resources */ = {isa = PBXBuildFile; fileRef = 8453CF68220A2C6E0008E8A3 /* Readme.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		8453CF5A220A24F30008E8A3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8453CF5D220A24F30008E8A3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8453CF5F220A24F30008E8A3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8453CF66220A275A0008E8A3 /* Empty-Wallet.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Empty-Wallet.jpg"; path = "../../../Image Assets/Empty-Wallet.jpg"; sourceTree = "<group>"; };
+		8453CF68220A2C6E0008E8A3 /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +42,7 @@
 		8453CF47220A24F10008E8A3 = {
 			isa = PBXGroup;
 			children = (
+				8453CF68220A2C6E0008E8A3 /* Readme.md */,
 				8453CF52220A24F10008E8A3 /* I Am Poor */,
 				8453CF51220A24F10008E8A3 /* Products */,
 			);
@@ -60,6 +65,7 @@
 				8453CF5A220A24F30008E8A3 /* Assets.xcassets */,
 				8453CF5C220A24F30008E8A3 /* LaunchScreen.storyboard */,
 				8453CF5F220A24F30008E8A3 /* Info.plist */,
+				8453CF66220A275A0008E8A3 /* Empty-Wallet.jpg */,
 			);
 			path = "I Am Poor";
 			sourceTree = "<group>";
@@ -122,6 +128,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8453CF69220A2C6E0008E8A3 /* Readme.md in Resources */,
+				8453CF67220A275A0008E8A3 /* Empty-Wallet.jpg in Resources */,
 				8453CF5E220A24F30008E8A3 /* LaunchScreen.storyboard in Resources */,
 				8453CF5B220A24F30008E8A3 /* Assets.xcassets in Resources */,
 				8453CF59220A24F10008E8A3 /* Main.storyboard in Resources */,
